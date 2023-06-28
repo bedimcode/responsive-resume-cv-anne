@@ -1,0 +1,135 @@
+========== HEADER ==========
+.nav__logo
+Anne
+
+========== HOME ==========
+.home__name
+HELLO, I’M <br>
+ANNE EVONE
+
+.home__profession
+FRONTEND <br>
+DEVELOPER
+
+
+========== ABOUT ==========
+.section__title
+PERSONAL INFO
+
+Hi, I'm Anne Evone, based in Lima - Perú, I do 
+custom work and do market research before starting 
+any project, giving you a fair advantage in 
+delivering the best outcome for the client.
+
+.about__button
+Download CV
+
+.about__social
+GitHub - Dribbble - Linkedin
+
+https://github.com/
+https://dribbble.com/
+https://www.linkedin.com/
+
+========== SKILLS ==========
+.section__title
+SKILLS
+
+.resume__title
+HTML & CSS
+JavaScript
+React
+Git & GitHub
+
+Bootstrap
+Figma
+
+
+========== EDUCATION ==========
+.section__title
+EDUCATION
+
+.resume__title .resume__data
+Master In Web Developer
+Perú - University
+2012 - 2017
+View
+
+Fontend Developer
+Spain - University
+2017 - 2022
+View
+
+Graphic Designer
+Perú - Institute
+2019 - 2023
+View
+
+
+========== WORK ==========
+.section__title
+WORK EXPERIENCE
+
+.resume__title .resume__data
+Web Developer Director
+Adobe - Spain / 2012 - 2017
+I worked in the company providing experience 
+in the labor field and doing quality work.
+
+Design Manager
+Figma - Perú / 2020 - 2022
+I worked in the company providing experience 
+in the labor field and doing quality work.
+
+Software Engineer
+Adobe - Spain / 2012 - 2017
+I worked in the company providing experience 
+in the labor field and doing quality work.
+
+
+========== CERTIFICATES ==========
+.section__title
+CERTIFICATES
+
+.resume__title .resume__data
+Modern Web Development
+Master Web Inc -  2015
+View
+
+Component Design
+Design & Company -  2020
+View
+
+Layout Of Structural Websites
+University of Peru -  2022
+View
+
+
+========== REFERENCES ==========
+.section__title
+REFERENCES
+
+.resume__title .resume__data
+Ris Allison
+CEO Industria Inc
+user@email.com / 987-654-3210
+
+Edyson Harris
+CEO Industria Inc
+user@email.com / 987-654-3210
+
+Anne Lort
+CEO Industria Inc
+user@email.com / 987-654-3210
+
+
+========== FOOTER ==========
+.footer__title .footer__info
+PHONE
+(0+) 987-654-321
+
+EMAIL
+anne@email.com
+
+WEBSITE <a href="#">
+www.mywebsite.com
